@@ -16,7 +16,7 @@ dataVolume:
 #  storageClass: default
 
 prometheusOperator:
-  enabled: false
+  enabled: true
   labels:
 
 securityContext:
